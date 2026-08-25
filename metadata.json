@@ -1,0 +1,6 @@
+{
+  "name": "Tank Stars 3D",
+  "description": "3D turn-based artillery tank battle game with all 10 unlocked tanks including the Panzer VI Tiger I, modern sabot shells, procedural weather systems, destructible 3D terrain, integrated 3D hangar armory, and responsive artillery controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
